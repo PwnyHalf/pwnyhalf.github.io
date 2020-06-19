@@ -9,7 +9,7 @@
         <h1 style="text-align: center"><font color="blue" size="xlarge">DEAR ALL SLAVS THIS WEBSITE IS DEDICATED TO YOU</font></h1>
         <table>
             <tr>
-                <td><center><img src="noslavnolife.png"</center></td>
+                <center><img src="noslavnolife.png"</center>
             </tr>
         </table>
     </body>
